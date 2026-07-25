@@ -13,4 +13,4 @@ python 03-react-agent/main.py "北京和上海温差多少？哪个更适合户�
 
 观察终端里每一步的 `Thought-ish`（模型中间内容）与 `Action` / `Observation`。
 
-扩展练习见 [04-projects](../../04-projects/)。
+扩展练习：先定角色 [04-roles](../../04-roles/)，再拼项目 [05-projects](../../05-projects/)。

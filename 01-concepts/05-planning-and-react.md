@@ -78,4 +78,4 @@ Final Answer: ...
 
 ## 下一步
 
-继续阅读：[06 · 多 Agent](./06-multi-agent.md)
+继续阅读：[06 · 多 Agent](./06-multi-agent.md) → 然后是 [07 · 角色优先](./07-role-vs-project.md)

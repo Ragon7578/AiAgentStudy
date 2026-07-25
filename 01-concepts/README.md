@@ -8,3 +8,4 @@
 4. [记忆](./04-memory.md)  
 5. [规划与 ReAct](./05-planning-and-react.md)  
 6. [多 Agent](./06-multi-agent.md)  
+7. [角色优先：重新设计节奏](./07-role-vs-project.md) ← **拆分方式看这篇**  
