@@ -1,0 +1,14 @@
+---
+description: 本仓库 Agent 仅关注 GitHub Ragon7578/AiAgentStudy
+alwaysApply: true
+---
+
+# 项目范围
+
+本 Agent **只**处理 **Ragon7578/AiAgentStudy**。
+
+- 工作区根：`/Users/ragon/RagonProjects/AiAgentStudy`
+- 远程：`https://github.com/Ragon7578/AiAgentStudy.git`（仅 GitHub `origin`）
+- 不要读写或切换到 `RagonProjects` 下其他仓库（如 DuiYiDui、SmartCity）
+- 不把产品业务代码（兑一兑、SmartCity）写进本学习仓库
+- 核心原则：按角色拆 Agent，按项目组装角色
